@@ -4,12 +4,12 @@
 
 
 
-### Work Experience
+<!-- ### Work Experience
 EX)
 - Machine Learning Engineer (Intern) / SAP Labs Korea (2021.07 - )
 - AI Service Engineer (Full-Time) / Smilegate AI (2021.05 - 2021.06 )
 -
--
+- -->
 
 ### Education
 
