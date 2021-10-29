@@ -5,7 +5,7 @@
 
 
 ### Work Experience
-<!-- 
+<!-- EX)
 - Machine Learning Engineer (Intern) / SAP Labs Korea (2021.07 - )
 - AI Service Engineer (Full-Time) / Smilegate AI (2021.05 - 2021.06 ) -->
 -
@@ -22,7 +22,9 @@
 
 - [수산물 수입가격 예측] - 빅콘테스트 2021 챔피언리그 (2021.07 - 2021.12)
 
-<!-- - 액티브러닝을 활용한 헬멧 착용 감지 모델 성능 개선 논문 작성 (2021.03 - 2021.05)
+<!-- 
+EX)
+- 액티브러닝을 활용한 헬멧 착용 감지 모델 성능 개선 논문 작성 (2021.03 - 2021.05)
 - 차량 데이터 분석을 통한 음악 추천 시스템 개발 - 현대자동차 인포테인먼트팀 (2020.06 - 2020.12)
 - [TensorFlow Lite for Micro Controller Project](https://github.com/yunho0130/tensorflow-lite) - 오픈 소스 컨트리뷰톤 특별상 / 데이터분석 컨퍼런스 '데이터야놀자' 출전(2020.08 - 2020.09)
 - [야구 잔여경기 승률, 타율, 방어율 예측](https://github.com/kyunghwanleethebest/bigcontest10027) - 빅콘테스트 2020 대상(과학기술정보통신부장관상) 수상 (2020.07 - 2020.09) 
@@ -34,7 +36,9 @@
 
 ### Contribute
 
-<!-- - 줄리아를 생각하다 (한빛 미디어) - Reviewer
+<!--
+EX) 
+- 줄리아를 생각하다 (한빛 미디어) - Reviewer
 - 초소형 머신러닝 TinyML (한빛 미디어) - Reviewer
 - R 레시피(누구나 해볼 만한) (비제이퍼블릭) - Reviewer
 - 연세대학교 GVC MBA 조교 -->
@@ -45,7 +49,7 @@
 
 - Main Language : Python
 - Data: TensorFlow, Keras, PyTorch, SQL
-- Web : Django, Flask
+- Web : ReactJS, Django
 - A little knowledge in  Julia
 
   
