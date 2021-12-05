@@ -10,11 +10,11 @@ EX)
 - AI Service Engineer (Full-Time) / Smilegate AI (2021.05 - 2021.06 )
 -
 - -->
-
+<!-- 
 ### Education
 
 - Bitcamp Academy (2021.07 - 2021.12)
-- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2021.08)
+- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2021.08) -->
 
 
 
