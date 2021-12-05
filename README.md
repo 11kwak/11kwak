@@ -41,27 +41,31 @@ EX)
 - 줄리아를 생각하다 (한빛 미디어) - Reviewer
 - 초소형 머신러닝 TinyML (한빛 미디어) - Reviewer
 - R 레시피(누구나 해볼 만한) (비제이퍼블릭) - Reviewer
-- 연세대학교 GVC MBA 조교
+- 연세대학교 GVC MBA 조교 -->
 
 
 
 ### Skills
 
 - Main Language : Python
+- Data : Numpy, Pandas, Matplotlib, TensorFlow, SQL
+- Web : ReactJS 
+
+
+
+<!-- ex)
+- Main Language : Python
 - Data: TensorFlow, Keras, PyTorch, SQL
-- Web : ReactJS, Django
-- A little knowledge in  Julia
+- Web : ReactJS
+- A little knowledge in  Julia -->
 
   
-
-
 
 ### Interest
 
 - ML/DL
-- Computer Vision 
-- Recommender System
- -->
+- time-series data
+
 
 
 
