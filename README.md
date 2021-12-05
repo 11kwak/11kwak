@@ -71,7 +71,7 @@ EX)
 ### Interest
 
 - ML/DL
-- time-series data
+- Time-series Data
 
 
 
