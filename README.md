@@ -21,7 +21,7 @@ EX)
 ### Project
 
 - [수산물 수입가격 예측] - 빅콘테스트 2021 챔피언리그 (2021.07 - 2021.11)
-- [CSA platform] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04) 
+- [CSA Platform HereFood] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04) 
 
 
 <!-- EX)
