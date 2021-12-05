@@ -44,7 +44,7 @@ EX)
 - R 레시피(누구나 해볼 만한) (비제이퍼블릭) - Reviewer
 - 연세대학교 GVC MBA 조교 -->
 
-### certificate
+### Certificate
 
 - SQL Developer
 - 정보처리기사
