@@ -43,7 +43,13 @@ EX)
 - R 레시피(누구나 해볼 만한) (비제이퍼블릭) - Reviewer
 - 연세대학교 GVC MBA 조교 -->
 
+### certificate
 
+- SQL Developer
+- 정보처리기사
+- 컴퓨터활용능력 1급
+- 한국사능력검정 1급
+- 워드프로세서 1급  
 
 ### Skills
 
