@@ -9,18 +9,19 @@ EX)
 - Machine Learning Engineer (Intern) / SAP Labs Korea (2021.07 - )
 - AI Service Engineer (Full-Time) / Smilegate AI (2021.05 - 2021.06 )
 -
--
+- -->
 
 ### Education
 
 - Bitcamp Academy (2021.07 - 2021.12)
-- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2020.08) -->
+- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2020.08)
 
 
 
 ### Project
 
 - [수산물 수입가격 예측] - 빅콘테스트 2021 챔피언리그 (2021.07 - 2021.11)
+- [CSA platform] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04) 
 
 
 <!-- EX)
