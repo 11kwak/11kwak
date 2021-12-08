@@ -1,20 +1,18 @@
 # Wonil Kwak
 
-<!-- ### Wanna be great ML/DL Full Stack Engineer
+### Wanna be great Data Scientist
 
 
 
 ### Work Experience
-EX)
-- Machine Learning Engineer (Intern) / SAP Labs Korea (2021.07 - )
-- AI Service Engineer (Full-Time) / Smilegate AI (2021.05 - 2021.06 )
--
-- -->
-<!-- 
+
+- Data Analysist(Full-Time) / Mobigen AI (2021.12 - )
+
+
 ### Education
 
 - Bitcamp Academy (2021.07 - 2021.12)
-- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2021.08) -->
+- B.A. Major in International Relations, Yonsei Univ (2014.03 - 2021.08) 
 
 
 
@@ -44,13 +42,6 @@ EX)
 - R 레시피(누구나 해볼 만한) (비제이퍼블릭) - Reviewer
 - 연세대학교 GVC MBA 조교 -->
 
-<!-- ### Certificate
-
-- SQL Developer
-- 정보처리기사
-- 컴퓨터활용능력 1급
-- 한국사능력검정 1급
-- 워드프로세서 1급   -->
 
 ### Skills
 
