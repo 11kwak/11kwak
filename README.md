@@ -1,9 +1,5 @@
 # Wonil Kwak
 
-### Wanna be great Data Scientist
-
-
-
 ### Work Experience
 
 - Data Analysist(Full-Time) / Mobigen AI (2021.12 - )
