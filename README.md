@@ -57,8 +57,8 @@ EX)
 
 ### Interest
 
-- ML/DL
 - Data Science
+- ML/DL
 - Time-series Data
 
 ### Data Science is...
