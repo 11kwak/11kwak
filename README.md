@@ -1,4 +1,3 @@
-![11](https://user-images.githubusercontent.com/87745990/147713437-28ca48b3-0fcb-45aa-8ed0-7f62f695acf2.png)
 <!-- 
 ### Work Experience
 
@@ -61,7 +60,7 @@ EX)
 - Time-series Data
 
 
-
+![11](https://user-images.githubusercontent.com/87745990/147713437-28ca48b3-0fcb-45aa-8ed0-7f62f695acf2.png)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11kwak&&show_icons=true&theme=tokyonight)
