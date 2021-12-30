@@ -1,4 +1,4 @@
-# Welcome 11kwak's github
+# Welcome 11kwak's GitHub
 <!-- 
 ### Work Experience
 
