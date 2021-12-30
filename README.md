@@ -58,9 +58,10 @@ EX)
 ### Interest
 
 - ML/DL
+- Data Science
 - Time-series Data
 
-### Data Scientist is...
+### Data Science is...
 
 ![11-removebg-preview](https://user-images.githubusercontent.com/87745990/147713504-d57d3df8-cd16-4666-97d6-02621f7cf52e.png)
 
