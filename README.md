@@ -1,3 +1,4 @@
+# Welcome 11kwak's github
 <!-- 
 ### Work Experience
 
@@ -59,8 +60,10 @@ EX)
 - ML/DL
 - Time-series Data
 
+### Data Scientist is...
 
-![11](https://user-images.githubusercontent.com/87745990/147713437-28ca48b3-0fcb-45aa-8ed0-7f62f695acf2.png)
+![11-removebg-preview](https://user-images.githubusercontent.com/87745990/147713504-d57d3df8-cd16-4666-97d6-02621f7cf52e.png)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=11kwak&&show_icons=true&theme=tokyonight)
