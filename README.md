@@ -60,6 +60,7 @@ EX)
 - Data Science
 - ML/DL
 - Time-series Data
+- GNN
 
 ### Data Science is...
 
