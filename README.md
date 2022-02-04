@@ -12,7 +12,7 @@
 ### Skills
 
 - Main Language : Python
-- Data : Numpy, Pandas, Matplotlib, TensorFlow, SQL
+- Data : PyTorch, SQL
 - Web : ReactJS 
 
 
