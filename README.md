@@ -1,5 +1,16 @@
 # Welcome 11kwak's GitHub
 
+<!--
+
+### Work Experience
+
+- Data Analysist(Full-Time) / Mobigen AI (2021.12 - )
+
+### Education
+
+- M.S. in Artificial Intelligence, Yonsei Univ (2022.09 - )
+- Bitcamp Academy (2021.07 - 2021.12)
+- B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08) -->
 
 
 ### Project
@@ -8,12 +19,12 @@
 - [국제 창업경진대회] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04) 
 
 
-### Certificate
+<!-- ### Certificate
+- SQL Developer (2021.12.17)
 - 정보처리기사 (2021.11.26)
 - 컴퓨터활용능력 1급 (2018.03.30) 
 - 워드프로세서 (2017.05.05) 
-- 한국사능력검정시험 1급 (2017.02.07)
-
+- 한국사능력검정시험 1급 (2017.02.07) -->
 
 
 ### Skills
@@ -22,8 +33,6 @@
 - Data : PyTorch, SQL
 - Web : ReactJS 
 
-
-  
 
 ### Interest
 
