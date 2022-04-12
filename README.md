@@ -27,7 +27,7 @@
 ### Skills
 
 - Main Language : Python
-- Data : PyTorch
+- ML/DL : scikit-learn, PyTorch
 - Web : ReactJS, Flask, Dash
 
 
