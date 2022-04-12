@@ -36,7 +36,7 @@
 
 - Main Language : Python
 - Data : PyTorch
-- Web : ReactJS 
+- Web : ReactJS, Flask, Dash
 
 
 ### Interest
