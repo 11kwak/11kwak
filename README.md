@@ -35,15 +35,14 @@
 ### Skills
 
 - Main Language : Python
-- Data : PyTorch, SQL
+- Data : PyTorch
 - Web : ReactJS 
 
 
 ### Interest
 
-- Data Science
-- ML/DL
-- Time-series Data
+- MLOps
+- robo-advisor
 
 
 
