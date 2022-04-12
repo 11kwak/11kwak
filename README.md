@@ -8,7 +8,7 @@
 
 ### Education
 
-- M.S. in Artificial Intelligence, Yonsei Univ (2022.09 - )
+- M.S. in Artificial Intelligence, Yonsei Univ (2023.03 - )
 - Bitcamp Academy (2021.07 - 2021.12)
 - B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08) -->
 
@@ -20,6 +20,7 @@
 
 
 <!-- ### Certificate
+- ADsP (2022.03.25)
 - SQL Developer (2021.12.17)
 - 정보처리기사 (2021.11.26)
 - 컴퓨터활용능력 1급 (2018.03.30) 
