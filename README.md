@@ -3,12 +3,12 @@
 
 
 
-<!--
+
 
 ### Work Experience
 
 - Data Analysist(Full-Time) / Mobigen AI (2021.12 - )
-
+<!--
 ### Education
 
 - M.S. in Artificial Intelligence, Yonsei Univ (2023.03 - )
