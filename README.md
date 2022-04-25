@@ -25,7 +25,7 @@
 
 ### Contest
 
-- [Computer Vision 이상치 탐지] - DACON 정규대회 최종 리더보드 순위 상위 5% (2022.04 - 2022.05)
+- [Computer Vision 이상치 탐지] - DACON 정규대회 최종 리더보드 순위 상위 10% (2022.04 - 2022.05)
 - [수산물 수입가격 예측](https://github.com/11kwak/2021_BigContest_WinterWinner_Project/) - 빅콘테스트 2021 챔피언리그 최우수상(한국정보통신진흥협회장상) 수상 (2021.08 - 2021.12)
 <!-- - [국제 창업경진대회] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04)  -->
 
