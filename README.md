@@ -7,7 +7,7 @@
 <!--
 ### Work Experience
 
-- Data Analysist(Full-Time) / Mobigen AI (2021.12 - )
+- Data Analysist(Full-Time) / Mobigen (2021.12 - )
 
 ### Education
 
