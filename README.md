@@ -25,7 +25,7 @@
 
 ### Contest
 
-- [] - 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (2022.07 - 2022.09)
+- [GPD를 활용한 주가 이상변화 탐지] - 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (2022.07 - 2022.09)
 - [Computer Vision 이상치 탐지](https://dacon.io/competitions/official/235894/codeshare/5011?page=1&dtype=recent) - DACON 정규대회 최종 리더보드 순위 상위 10% (2022.04 - 2022.05)
 - [수산물 수입가격 예측](https://github.com/11kwak/2021_BigContest_WinterWinner_Project/) - 빅콘테스트 2021 챔피언리그 최우수상(한국정보통신진흥협회장상) 수상 (2021.08 - 2021.12)
 <!-- - [국제 창업경진대회] - Hult Prize 2021 지역 예선 진출 (in Manila) (2020.10 - 2021.04)  -->
