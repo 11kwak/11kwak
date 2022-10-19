@@ -1,9 +1,6 @@
 # 11kwak's 꿈기록
 
 
-
-
-
 <!--
 ### Work Experience
 
@@ -11,7 +8,6 @@
 
 ### Education
 
-- M.S. in Artificial Intelligence, Yonsei Univ (2023.03 - )
 - Bitcamp Academy (2021.07 - 2021.12)
 - B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08) 
 
