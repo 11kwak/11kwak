@@ -21,7 +21,7 @@
 
 ### Contest
 
-- [Computer Vision 이상치 탐지](https://dacon.io/competitions/official/235894/codeshare/5011?page=1&dtype=recent) - DACON 정규대회 최종 리더보드 순위 상위 10% (2022.04 - 2022.05)
+- [Computer Vision 이상치 탐지 알고리즘 경진대회](https://dacon.io/competitions/official/235894/codeshare/5011?page=1&dtype=recent) - DACON 정규대회 최종 리더보드 순위 상위 10% (2022.04 - 2022.05)
 - [수산물 수입가격 예측 웹 서비스](https://github.com/11kwak/2021_BigContest_WinterWinner_Project/) - 빅콘테스트 2021 챔피언리그 최우수상(한국정보통신진흥협회장상) 수상 (2021.08 - 2021.12)
 - [C2C CSA 플랫폼 기획](https://github.com/11kwak/HereFood_Hultprize2021) - Hult Prize 2021 아시아 지역 예선 진출 (in Manila) (2020.10 - 2021.04) 
 
