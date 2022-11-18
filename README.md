@@ -1,12 +1,12 @@
 # 11kwak's footprints
 
 
-<!--
+
 ### Work Experience
 
 - Data Analysist(Full-Time) / Mobigen (2021.12 - )
 
-### Education
+<!-- ### Education
 
 - Bitcamp Academy (2021.07 - 2021.12)
 - B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08) 
@@ -14,9 +14,9 @@
 ### Project
 
 - 2022 소방청 119빅데이터 과제분석 및 분석기반 고도화 사업 (2022.08 ~ 2022.12)
-- 2022 KOTRA 빅데이터 분석 플랫폼 고도화 사업 (2022.04 ~ 2022.07) 
+- 2022 KOTRA 빅데이터 분석 플랫폼 고도화 사업 (2022.04 ~ 2022.07)  -->
 
--->
+
 
 
 ### Contest
