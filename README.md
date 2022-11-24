@@ -6,10 +6,10 @@
 
 - Data Analysist(Full-Time) / Mobigen (2021.12 - )
 
-### Education
+<!-- ### Education
 
 - Bitcamp Academy (2021.07 - 2021.12)
-- B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08) 
+- B.A. in International Relations, Yonsei Univ (2014.03 - 2021.08)  -->
 <!-- 
 ### Project
 
