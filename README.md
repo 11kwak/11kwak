@@ -34,7 +34,8 @@
 - ML/DL : scikit-learn, PyTorch
 - Workflow : NiFi, Airflow
 - Data Engineering : PostgreSQL
-- DevOps : Docker, Kubernetes 
+- DevOps : Docker, Kubernetes
+- MLOps : MLflow
 - Web Development : ReactJS, Flask, Dash
 
 
