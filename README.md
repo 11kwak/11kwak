@@ -30,9 +30,12 @@
 
 ### Skills
 
-- Main Language : Python
+- Language : Python, SQL
 - ML/DL : scikit-learn, PyTorch
-- Web : ReactJS, Flask, Dash
+- Workflow : NiFi, Airflow
+- Data Engineering : PostgreSQL
+- DevOps : Docker, Kubernetes 
+- Web Development : ReactJS, Flask, Dash
 
 
 ### Interest
