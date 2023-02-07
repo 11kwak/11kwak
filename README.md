@@ -35,7 +35,6 @@
 - Workflow : NiFi, Airflow
 - Data Engineering : PostgreSQL
 - DevOps : Docker, Kubernetes
-- MLOps : MLflow
 - Web Development : ReactJS, Flask, Dash
 
 
