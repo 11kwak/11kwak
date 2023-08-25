@@ -34,9 +34,7 @@
 - Language : Python, SQL
 - ML/DL : scikit-learn, PyTorch
 - Workflow : NiFi, Airflow
-- Data Engineering : PostgreSQL
 - DevOps : Docker, Kubernetes
-- Web Development : ReactJS, Flask, Dash
 
 
 ### Interest
