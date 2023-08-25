@@ -3,8 +3,8 @@
 
 
 ### Work Experience
-- Data Analysist / Nexon (2023.05 - )
-- Data Analysist / Mobigen (2021.12 - 2023.05)
+- Data Analyst / Nexon (2023.05 - )
+- Data Analyst / Mobigen (2021.12 - 2023.05)
 
 <!-- ### Education
 
