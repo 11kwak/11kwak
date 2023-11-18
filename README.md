@@ -36,20 +36,20 @@
 - DevOps : Docker, Kubernetes
 
 
-### Interest
-
-- MLOps
-- robo-advisor
-
 
 ### Certificate
 - 빅데이터분석기사 (2022.07.15)
-- ADsP (2022.03.25)
-- SQLD (2021.12.17)
+- 데이터분석 준전문가 (2022.03.25)
+- SQL 개발자 (2021.12.17)
 - 정보처리기사 (2021.11.26)
 - 컴퓨터활용능력 1급 (2018.03.30) 
 
 
+
+### Interest
+
+- MLOps
+- robo-advisor
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F11kwak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
