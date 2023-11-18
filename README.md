@@ -32,7 +32,7 @@
 
 - Language : Python, SQL
 - ML/DL : scikit-learn, PyTorch
-- Workflow : NiFi, Airflow
+- Workflow : NiFi
 - DevOps : Docker, Kubernetes
 
 
@@ -42,14 +42,12 @@
 - robo-advisor
 
 
-<!-- ### Education
 ### Certificate
 - 빅데이터분석기사 (2022.07.15)
 - ADsP (2022.03.25)
 - SQLD (2021.12.17)
 - 정보처리기사 (2021.11.26)
 - 컴퓨터활용능력 1급 (2018.03.30) 
--->
 
 
 
