@@ -30,7 +30,7 @@
 
 ### Skills
 
-- Language : Python, SQL
+- Language : Python, SQL, PySpark
 - ML/DL : scikit-learn, PyTorch
 - Workflow : NiFi
 - DevOps : Docker, Kubernetes
