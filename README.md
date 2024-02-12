@@ -3,7 +3,7 @@
 
 
 ### Work Experience
-- Data Analyst / NEXON Korea (2023.05 - )
+- Data Analyst / NEXON KOREA (2023.05 - )
 - Data Analyst / Mobigen (2021.12 - 2023.05)
 
 <!-- ### Education
